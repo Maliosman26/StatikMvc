@@ -193,6 +193,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="web\Resimler\foto.jpg" />
     <Content Include="web\css\fontawesome-all.min.css" />
     <Content Include="web\css\style.css" />
     <Content Include="web\images\p1.jpeg" />

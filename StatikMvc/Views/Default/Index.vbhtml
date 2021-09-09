@@ -40,7 +40,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="wrap">
                     <div class="profile-main">
                         <div class="profile-pic wthree">
-                            <img src="~/web/images/p1.jpeg" alt="">
+                            <img src="~/web/Resimler/foto.jpg" width="200" height="200" alt="">
                             <h3>HAKKIMDA</h3>
                             <div class="w3ls-agile-left">
                                 <!---728x90--->
@@ -48,45 +48,45 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <ul class="address">
                                     <li>
                                         <ul class="address-text">
-                                            <li><b>Sex </b></li>
+                                            <li><b>Cinsiyet </b></li>
                                             <li>: </li>
-                                            <li> <span class="w3">Female</span></li>
+                                            <li> <span class="w3">Erkek</span></li>
                                         </ul>
                                     </li>
 
                                     <li>
                                         <ul class="address-text">
-                                            <li><b>D.O.B </b></li>
+                                            <li><b>Doğum Tarihi </b></li>
                                             <li>: </li>
-                                            <li> <span class="w3">03-02-1984</span></li>
+                                            <li> <span class="w3">29-06-1997</span></li>
                                         </ul>
                                     </li>
                                     <li>
                                         <ul class="address-text">
-                                            <li><b>PHONE </b></li>
+                                            <li><b>Telefon </b></li>
                                             <li>: </li>
-                                            <li> <span class="w3">+123456789</span></li>
+                                            <li> <span class="w3">+90 (553) 320 40 60</span></li>
                                         </ul>
                                     </li>
                                     <li>
                                         <ul class="address-text">
-                                            <li><b>ADDRESS </b></li>
+                                            <li><b>Doğum Yeri </b></li>
                                             <li>: </li>
-                                            <li> <span class="w3">22 New Castle </span></li>
+                                            <li> <span class="w3">Üsküdar </span></li>
                                         </ul>
                                     </li>
                                     <li>
                                         <ul class="address-text">
-                                            <li><b>ADDRESS1 </b></li>
+                                            <li><b>Adres </b></li>
                                             <li>: </li>
-                                            <li><span class="w3">Harry USA</span></li>
+                                            <li><span class="w3">Pamukkale/Denizli</span></li>
                                         </ul>
                                     </li>
                                     <li>
                                         <ul class="address-text">
-                                            <li><b>E-MAIL </b></li>
+                                            <li><b>E-Mail </b></li>
                                             <li>: </li>
-                                            <li><a href="mailto:example@mail.com"> <span class="w3">mail@example.com</span></a></li>
+                                            <li><a href="mailto:example@mail.com"> <span class="w3">muhammetaliosman<br />ozyurt@gmail.com</span></a></li>
                                         </ul>
                                     </li>
 
@@ -97,7 +97,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         </div>
 
                         <div class="profile-ser">
-                            <h4>MY Skills</h4>
+                            <h4>Yeteneklerim</h4>
                             <div class="awards-agileinfo  w3ls-section">
                                 <div class="awardsw3-agileits banner-agileinfo">
                                     <div class="container">
@@ -106,21 +106,21 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                                 <div class="demo">
 
                                                     <div class="demo-1" data-percent="70"></div>
-                                                    <h4>HTML</h4>
+                                                    <h4>HTML/CSS</h4>
                                                 </div>
                                             </div>
                                             <div class=" w3ls_about_guage">
                                                 <div class="demo">
 
                                                     <div class="demo-1" data-percent="75"></div>
-                                                    <h4>JQuery</h4>
+                                                    <h4>JavaScript</h4>
                                                 </div>
                                             </div>
                                             <div class=" w3ls_about_guage">
                                                 <div class="demo">
 
                                                     <div class="demo-1" data-percent="85"></div>
-                                                    <h4>Design</h4>
+                                                    <h4>C#</h4>
                                                 </div>
                                             </div>
                                             <div class="clear"> </div>
@@ -136,12 +136,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <div class="profile-follows">
 
                             <div class="follow-btn">
-                                <h3>Follow Me On :</h3>
+                                <h3>Beni Takip Et :</h3>
                             </div>
                             <div class="follow">
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                                <a href="https://twitter.com/maliosman2652"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.facebook.com/maliosman26/"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://www.instagram.com/maliosman26/?hl=tr"><i class="fab fa-instagram"></i></a>
 
                             </div>
                         </div>
@@ -156,7 +156,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
             <!--footer-->
             <div class="footer-w3">
-                <p>&copy; 2018 Square Profile Widget. All rights reserved | Design by <a href="http://w3layouts.com">W3layouts</a></p>
+                <p>&copy; MVC Projesi ~ 2021 HerYerdeYazılım <a href="http://w3layouts.com">W3layouts</a></p>
             </div>
             <!--//footer-->
 
